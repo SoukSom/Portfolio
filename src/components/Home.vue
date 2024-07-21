@@ -10,7 +10,7 @@
                     <p class="text-warning font-bold">Hello, Welcome</p>
                     <p class="text-white font-bold my-5 text-2xl sm:text-4xl" style="text-shadow: 0 0 5px #808080;">I'm Souksomvang Xengnengxai</p>
                     <p class="text-warning font-bold">Junior Developer</p>
-                    <button class="contact-btn mt-5">Contact me</button>
+                    <button class="contact-btn mt-5"><a href="#contact">Contact me</a></button>
                 </div>
             </div>    
             <div class="hidden lg:flex justify-center">
